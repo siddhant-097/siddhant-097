@@ -39,8 +39,9 @@ A Full-Stack Developer focused on building web applications with the MERN stack.
 
 ### How to reach me?
 
-* LinkedIn: linkedin.com/in/siddhantchaudhary097
+* LinkedIn: [linkedin.com/in/siddhantchaudhary097](https://www.linkedin.com/in/siddhantchaudhary097)
 * Email: [siddhantchaudhary097gmail.com](mailto:siddhantchaudhary097@gmail.com)
+* 𝕏: [@iamsiddhant097](https://x.com/iamsiddhant097)
 
 
 
